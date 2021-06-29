@@ -10,3 +10,4 @@ https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-dat
 https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-database/databases/Z.json
 https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-database/databases/AURO.json
 https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-database/databases/IMP.json
+https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-database/databases/PEPSI.json

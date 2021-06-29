@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-database/databases/TEAMPEPSI.json
 https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-database/databases/AKB.json
+https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-database/databases/MANATEE.json

@@ -3,4 +3,4 @@ https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-dat
 https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-database/databases/MANATEE.json
 https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-database/databases/ZISPANOS.json
 https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-database/databases/SNOW.json
-
+https://raw.githubusercontent.com/amogus-client/2b2tclantags-api/master/clan-database/databases/HYDRA.json
